@@ -65,3 +65,6 @@ Models are evaluated using **RMSE** (Root Mean Squared Error) and **MAE** (Mean 
 
 3.  **Run the Notebook:**
     Open `ProjetML.ipynb` in Jupyter Notebook or Google Colab.
+
+**Video Youtube Link :**
+https://youtu.be/PvyTqr9a-eA
