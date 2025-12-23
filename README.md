@@ -6,7 +6,7 @@
 ![NLTK](https://img.shields.io/badge/NLP-NLTK-yellow)
 
 ## Project Overview
-**Authors:** SAINT ANDRE Jeffrey & MATAR Gabriel
+**Authors:** SAINT ANDRE Jeffrey & MATAR Gabriel  
 **Context:** This project aims to predict the star rating of Amazon products based on their price, category, and textual user reviews. By building a pipeline that integrates **Natural Language Processing (NLP)** with **Machine Learning regression**, the project seeks to understand the drivers of customer satisfaction.
 
 ## Libraries & Tools
