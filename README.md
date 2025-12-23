@@ -64,4 +64,4 @@ Models are evaluated using **RMSE** (Root Mean Squared Error) and **MAE** (Mean 
     ```
 
 3.  **Run the Notebook:**
-    Open `Final_version_rating_amazon_products_project.ipynb` in Jupyter Notebook or Google Colab.
+    Open `ProjetML.ipynb` in Jupyter Notebook or Google Colab.
