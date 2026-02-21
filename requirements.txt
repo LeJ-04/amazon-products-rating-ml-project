@@ -5,3 +5,6 @@ seaborn
 nltk
 scikit-learn
 langdetect
+streamlit 
+joblib 
+vaderSentiment
