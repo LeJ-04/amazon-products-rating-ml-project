@@ -60,11 +60,16 @@ Models are evaluated using **RMSE** (Root Mean Squared Error) and **MAE** (Mean 
 
 2.  **Install dependencies:**
     ```bash
-    pip install pandas numpy matplotlib seaborn nltk scikit-learn langdetect
+    pip install pandas numpy matplotlib seaborn nltk scikit-learn langdetect streamlit joblib vaderSentiment
     ```
 
 3.  **Run the Notebook:**
     Open `ProjetML.ipynb` in Jupyter Notebook or Google Colab.
+
+4. **Launch the Stremlit interface:**
+   ```bash
+   streamlit run app.py
+   ```
 
 **Video Youtube Link :**
 https://youtu.be/PvyTqr9a-eA
